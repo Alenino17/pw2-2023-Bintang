@@ -1,8 +1,9 @@
+<?php
+    include_once 'header.php'
+?>
 <div class="container">
   <h2>Data Mahasiswa</h2>
-  <table class="table">
-      <thead>
-          <tr>
+  <table class="table text-uppercase table-bordered">
               <th>1</th>
               <th>Muhammad Bintang Alenino</th>
               <th>UI/UX</th>
@@ -18,7 +19,7 @@
       <tbody>
           <tr>
               <td>2</td>
-              <td>Ale</td>
+              <td>Nabila</td>
               <td>Statistika dan Probabilitas</td>
               <td>89</td>
               <td>95</td>
